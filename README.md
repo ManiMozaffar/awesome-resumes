@@ -32,13 +32,14 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Target Role](#target-role)
   - [Snipe Advertisement Mechanism](#snipe-advertisement)
   - [Reach Back](#reach-back)
+  - [Thanks Letter](#thanks-letter)
 - [Different countries special advices for writing resumes]()
   - [Germany](countries/GERMANY.md)
 - [Useful Open Source Projects]()
   - [Linkedin Job Finder](https://github.com/ManiMozaffar/linkedIn-scraper)
 - [Careers Samples](samples)
   - [academic researcher](samples/academic-researcher)
-  - [backend](samples/backend)s
+  - [backend](samples/backend)
   - [business analyst](business-analyst/business-analyst)
   - [data scientist](samples/data-scientist)
   - [devops](samples/devops)
@@ -59,55 +60,55 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### About Me
     - ✅ **Write about 2-4 lines**
     - ✅ **from third person view perspective**
-        - I am a developer a backend developer with 5 years experience 👎
-        - A backend developer with 5 years experience 👍
+        - 👎 I am a developer a backend developer with 5 years experience cc
+        - 👍 A backend developer with 5 years experience
     - ✅ **Highlight your key skills and areas of expertise**
-        - An experinced backend developer with 5 years experience 👎
-        - An experinced backend developer with a years of experience using microservice and service orinted design 👍
+        - 👎 An experinced backend developer with 5 years experience  
+        - 👍 An experinced backend developer with a years of experience using microservice and service orinted design
     - ✅ **Emphasize your unique related value proposition or memberships**
-        - Contributed to the development of several open-source Python projects, including Django Rest Framework and Pandas. 👍
+        - 👍 Contributed to the development of several open-source Python projects, including Django Rest Framework and Pandas.
     - ✅ **Using academic address is better than using public address like gmail**
-        - example@academicinstitution.edu 👍
-        - example@gmail.com 👎
+        - 👍 example@academicinstitution.edu
+        - 👎 example@gmail.com
     - ✅ **Use hyperlinks for your contract information**
     - ✅ **Must include linkedin, and maybe github or alternative platforms**
     - ✅ **A good photo is better than no photo, and no photo is better than bad photo. Good photo is considered as you wearing a professional clothes, such as suit.**
     - ❌ **Don't Share personal information such as age, religion, political views, or exact address information**
-        - A 22 years old experinced backend developer 👎
-        - A backend developer with 5 years experience 👍
+        - 👎 A 22 years old experinced backend developer
+        - 👍 A backend developer with 5 years experience
     - ❌ **Don't Include irrelevant information or hobbies**
-        - Passionate about psychology 👎
-        - Passionate about open sources contribution 👍
+        - 👎 Passionate about psychology
+        - 👍 Passionate about open sources contribution
     - ❌ **Don't Use unprofessional language or tone**
-        - Really interesting helping out with open-source stuff. Like for serious, super pumped about it 👎
-        - Passionate about open sources contribution 👍
+        - 👎 Really interesting helping out with open-source stuff. Like for serious, super pumped about it
+        - 👍 Passionate about open sources contribution
 
   
 - ### Work Experience
     - ✅ **Use bullet points**
-        - ................ 👎
-        - • ................ 👍    
+        - 👎 ................
+        - 👍 • ................   
     - ✅ **Start with your most recent or current position and work backwards**
     - ✅ **Use bullet points to list your responsibilities and achievements for each job, you can testify this by asking how and why and if it answers then it's a good responsibilities and achievements.**
-        - • Refactored the backend's code 👎 (Why?)
-        - • Improved beter coding readability, easier maintenance and development 👎 (How?)
-        - • Refactored the backend's code for beter coding readability, easier maintenance and development👍
+        - 👎 • Refactored the backend's code  (Why?)
+        - 👎 • Improved beter coding readability, easier maintenance and development  (How?)
+        - 👍 • Refactored the backend's code for beter coding readability, easier maintenance and development
 
     - ✅ **Quantify your achievements with specific metrics or numbers, when possible**
     - ✅ **Focus on your contributions to the company or team, not just your day-to-day tasks**
-        - • Completed daily tasks and maintained project timelines 👎
-        - • Contributed to the development of a new product, improving team efficiency and reducing production costs by 15% 👍
+        - 👎 • Completed daily tasks and maintained project timelines 
+        - 👍 • Contributed to the development of a new product, improving team efficiency and reducing production costs by 15% 
     - ✅ **Highlight any promotions, leadership positions, or additional responsibilities you took on**
     - ✅ **Tailor your bullet points to match the requirements of the job you are applying for**
         - Example: Applying to a frontend job
-        - • Refactored the backend's code for beter coding readability, easier maintenance and development 👎
-        - • Improved coding readability by refactoring some codes with providing proper documenantion 👍
+        - 👎 • Refactored the backend's code for beter coding readability, easier maintenance and development 
+        - 👍 • Improved coding readability by refactoring some codes with providing proper documenantion 
     - ❌ **Don't exaggerate or embellish your accomplishments, but also don't be too modest**
-        - • Single-handedly developed and launched a new product that generated millions in revenue 👎
-        - • Collaborated with a team to develop and launch a new product that generated significant revenue 👍
+        - 👍 • Single-handedly developed and launched a new product that generated millions in revenue 
+        - 👍 • Collaborated with a team to develop and launch a new product that generated significant revenue
     - ❌ **Avoid using vague or generic language, and be specific about what you achieved**
-        - • Managed a project to completion 👎
-        - • Successfully led a cross-functional team to complete a project ahead of schedule and under budget, resulting in a 20% increase in productivity 👍
+        - 👎 • Managed a project to completion
+        - 👍 • Successfully led a cross-functional team to complete a project ahead of schedule and under budget, resulting in a 20% increase in productivity
     - ❌ **Don't list every job you've ever had - only include relevant experience that showcases your skills and achievements**
 
 
@@ -116,24 +117,27 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ✅ **List your most relevant projects, ideally those that showcase your skills and expertise**
     - ✅ **Provide a brief description of each project, including its purpose, your role, and the technologies used**
     - ✅ **Focus on your contributions to the project and any notable achievements, such as meeting tight deadlines or exceeding project goals**
-        - • Optimized the database design to improve query performance, resulting in a 20% reduction in page load times 👍
-        - • Worked on the frontend, designing the user interface and implementing many features 👎(No achievements)
+        - 👍 • Optimized the database design to improve query performance, resulting in a 20% reduction in page load times
+        - 👎 • Worked on the frontend, designing the user interface and implementing many features (Not an achievements)
     - ❌ **Don't include irrelevant or outdated projects that don't showcase your current skills and expertise**
     - ❌ **Avoid listing incomplete or ongoing projects, unless they are particularly impressive or demonstrate a unique skill set**
 
 
 - ### Skills
     - ✅ **List your relevant technical skills, including programming languages, software, and tools**
-        - Python, Java, C++, SQL, AWS, Docker, Git, Jupyter Notebook, Tableau 👍
+        - 👍 Python, Java, C++, SQL, AWS, Docker, Git, Jupyter Notebook, Tableau
     - ✅ **Include any non-technical skills that are relevant to the job**
-        - Scrum, agile 👍
+        - 👍 Scrum, agile
     - ✅ **Highlight any specialized skills or certifications**
-        - AWS Certified Solutions Architect - Associate, Certified Scrum Master (CSM), Six Sigma Green Belt 👍
+        - 👍 AWS Certified Solutions Architect - Associate, Certified Scrum Master (CSM), Six Sigma Green Belt
     - ❌ **Avoid listing too many skills or including irrelevant ones**
-        - Microsoft Word, Customer Service, Cooking, Guitar Playing 👎
+        - 👎 Microsoft Word, Customer Service, Cooking, Guitar Playing
     - ❌ **Don't exaggerate or claim to have skills you don't actually possess**
+    - ❌ **Avoid giving rating to your skills in term of stars or anything, you may only backup your skill with valid certificates**
+        - 👎 AWS Expert
+        - 👍 AWS Certified Solutions Architect
     - ❌ **Don't list your soft skills, you have to actually indirectly mention them through the work experinces**
-        - Adoptable, Leadership👎
+        - 👎 Adoptable, Leadership
 
 
 - ### Education
@@ -163,10 +167,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Publications
     - ✅ **Include any relevant publications, such as research papers, articles or books**
     - ✅ **List the title of the publication, the publication name, date of publication, and your role in the publication**
-        - Title: "Machine Learning Techniques for Sentiment Analysis" 👍
-        - Publication: Journal of Artificial Intelligence Research 👍
-        - Date: January 2021 👍
-        - Role: Co-author 👍
+        - 👍 Title: "Machine Learning Techniques for Sentiment Analysis"
+        - 👍 Publication: Journal of Artificial Intelligence Research
+        - 👍 Date: January 2021
+        - 👍 Role: Co-author
     - ✅ **Include any relevant links or citations to verify your publication validity**
     - ❌ **Don't include irrelevant publications, such as personal blog posts or unrelated articles**
     - ❌ **Don't include publications that are outdated or no longer relevant to your current field**
@@ -182,9 +186,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Professional Memberships
     - ✅ **List any relevant professional organizations or associations you are a member of, and include any leadership positions you have held within them.**
     - ✅ **Highlight any specific skills or knowledge you have gained through these memberships if needed.**
-        - Member, Association for Computing Machinery (ACM) 👍
-        - Served as Vice President of the local chapter, organizing monthly meetings and events that brought together members of the local tech community. 👍
-        - Participated in several workshops and seminars on topics such as artificial intelligence and machine learning, deepening my understanding of these fields and expanding my skill set. 👍
+        - 👍 Member, Association for Computing Machinery (ACM)
+        - 👍 Served as Vice President of the local chapter, organizing monthly meetings and events that brought together members of the local tech community.
+        - 👍 Participated in several workshops and seminars on topics such as artificial intelligence and machine learning, deepening my understanding of these fields and expanding my skill set.
 
 
 - ### Languages
@@ -204,8 +208,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Contexting
     - ✅ **Use correct grammar and professional language, use grammarly to find grammar mistake**
     - ✅ **Use third person view when writing your resume**
-        - I am a developer a backend developer with 5 years experience 👎
-        - A backend developer with 5 years experience 👍
+        - 👎 I am a developer a backend developer with 5 years experience
+        - 👍 A backend developer with 5 years experience
     - ✅ **Use proper spacing, so that it'd be friendly to eye when reading**
     - ✅ **Use vertical template, having one column per each page section is a good practice**
     - ✅ **Use between 475 to 600 words in your resume**
@@ -214,8 +218,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ✅ **Generally write your texts in bullet points except for about me**
     - ✅ **Try using resumeworded or similiar website to improve your context, +70 grade in resumeworded is ideal, don't necessarily aim to get 100 because it's AI validated, not a very accurate indicator**
     - ✅ **Use proper action verb, while avoiding weak verbs such as `did`**
-        - Created a new software system that increased productivity by 20% 👎
-        - Implemented a new software system that increased productivity by 20% 👍
+        - 👎 Created a new software system that increased productivity by 20%
+        - 👍 Implemented a new software system that increased productivity by 20%
     - ✅ **Quantify your achievements. Use numbers and percentages to highlight your achievements and show the impact of your work**
     - ✅ **Include a summary or objective statement at the top of your resume. This can help the hiring manager quickly understand what you have to offer and why you are a good fit for the job.**
     - ✅ **Include relevant experience, even if it is not paid work**
@@ -304,6 +308,10 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     Overall, reach back can be a powerful tool for job seekers looking to stand out from the competition and increase their chances of landing a job. By being proactive and engaging with recruiters, you can demonstrate your interest and enthusiasm for the job and increase your chances of being considered for the position.
 
 
+- ### Thanks Letter
+    A thank you letter is a way of expressing gratitude towards someone for their help or support. It is a simple yet effective way of showing appreciation and acknowledging the efforts of others. Whether it is for a job interview, a recommendation, or any other situation, a well-written thank you letter can leave a lasting positive impression on the recipient.
+
+    In the first paragraph of the letter, it is important to thank the person for their help or support and to express how much it means to you. In the second paragraph, you can elaborate on the impact their assistance has had on you and how it has made a difference. Finally, it is important to end the letter by expressing your gratitude once again and letting them know that their help will not be forgotten.
 
 
 ## Templates
