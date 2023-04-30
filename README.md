@@ -11,7 +11,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 
 - [Resume Structure](#structure)
-  - [About Me](#about-me)
+  - [About Me | Summary | Profile](#about-me)
   - [Work Experience](#work-experience)
   - [Projects (Optional)](#projects)
   - [Skills](#skills)
@@ -59,6 +59,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### About Me
     - ✅ **Write about 2-4 lines**
+    - ✅ **First comes the the country name, second comes the city's name where you live.**
     - ✅ **from third person view perspective**
         - 👎 I am a developer a backend developer with 5 years experience cc
         - 👍 A backend developer with 5 years experience
@@ -82,6 +83,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ❌ **Don't Use unprofessional language or tone**
         - 👎 Really interesting helping out with open-source stuff. Like for serious, super pumped about it
         - 👍 Passionate about open sources contribution
+    - ❌ **Don't put the focus on only your skills, this is general information and a quick summary of your resume not your skill lists**
+    - ❌ **Avoid mentioning any soft skills directly or indirectly; unless it's been underhood of your job title (Lead developer, CTO, Founder or etc)**
 
   
 - ### Work Experience
@@ -124,9 +127,12 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 
 - ### Skills
-    - ✅ **List your relevant technical skills, including programming languages, software, and tools**
+    Hard skills are objective, quantifiable skills gained through training, school, or work experiences. Hard skills are often usually something that can be taught or learned. If you are a Software Engineer and you write code in Java, then Java is one of your hard skills.
+
+    Soft skills are interpersonal abilities that allow people to communicate, collaborate, problem-solve, and navigate social situations. They are essential for building relationships, managing conflicts, and achieving success at work. Employers value soft skills as much as hard skills.
+    - ✅ **List your relevant hard skills, including programming languages, software, and tools**
         - 👍 Python, Java, C++, SQL, AWS, Docker, Git, Jupyter Notebook, Tableau
-    - ✅ **Include any non-technical skills that are relevant to the job**
+    - ✅ **Include any non-technical skills that are relevant to the job, not soft skill!**
         - 👍 Scrum, agile
     - ✅ **Highlight any specialized skills or certifications**
         - 👍 AWS Certified Solutions Architect - Associate, Certified Scrum Master (CSM), Six Sigma Green Belt
@@ -207,6 +213,11 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 ### Hints And Best Practices
 - ### Contexting
     - ✅ **Use correct grammar and professional language, use grammarly to find grammar mistake**
+    - ✅ **Save your resume with your name, alongside with the day you generated it, this can help recruiter to understand that you have customized your resume for the job. For example you may write ManiMozaffar_2022-07-25**
+    - ✅ **One or two line per bullet point is enough, no more**
+    - ✅ **First comes the position, second comes the company's name. Make sure to follow that order. Same goes for university, first degree's subject's name, second university's name**
+    - ✅ **Date is better to be written as MM/YYYY all around your resume, like 02/2020**
+    - ✅ **You have to use past tense and passive voice for all your sentences except for summary/about me**
     - ✅ **Use third person view when writing your resume**
         - 👎 I am a developer a backend developer with 5 years experience
         - 👍 A backend developer with 5 years experience
@@ -225,7 +236,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ✅ **Include relevant experience, even if it is not paid work**
     - ✅ **Include a call to action. At the end of your resume, include a call to action such as "Please contact me if you have any questions or would like to schedule an interview."**
     - ❌ **Do not use vague or unclear language. Your resume should be written in clear and concise language that accurately conveys your skills and experience. Avoid using overly technical terms or jargon that may not be familiar to the reader.**
-
+    - ❌ **Avoid using emoji or too colorful designs as it decrease the 6 second impression, keep your resume simple**
 
 
 - ### Six Second Impression
@@ -295,6 +306,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     
     To snipe an advertisement effectively, it's important to take the time to study the company and their products, services, and technology stacks. This will help you to understand their business and the specific skills and experience they are looking for in a candidate. You can also customize your resume and cover letter to highlight your skills and experience in a way that is relevant to the job and the company.
     While sniping advertisements can be a time-consuming process, it can be an effective way to increase your chances of landing a job with your favorite company. By taking the time to understand the company's needs and customizing your application accordingly, you can demonstrate your enthusiasm for the job and your suitability as a candidate.
+    
+    If you have customized your resume and there's gap between your jobs, it's absolutely fine as the jobs are really related to the advertisement, and the HR still will check your linkedin if gap between jobs matters for them.
 
 
 - ### Reach Back
