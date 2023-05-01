@@ -18,7 +18,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Education](#education)
   - [Cerfiticates (Optional)](#cerfiticates)
   - [Awards And Honors (Optional)](#awards)
-  - [Publications (Optional)](#publications)
+  - [Publications | Researches (Optional)](#publications)
   - [Volunteer Experience (Optional)](#volunteer-experience)
   - [Professional Memberships (Optional)](#professional-memberships)
   - [Languages (Optional)](#languages)
@@ -91,7 +91,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - ✅ **Use bullet points**
         - 👎 ................
         - 👍 • ................   
+    - ✅ **Write minimum 2 bullet points, maximum 6. Even elon musk doesn't write more than 6 :/**
     - ✅ **Start with your most recent or current position and work backwards**
+    - ✅ **Make sure your jobs don't have overlap with each other or other experiences, such as teaching, only overlap that is allowed is Work Experience with Education.**
     - ✅ **Use bullet points to list your responsibilities and achievements for each job, you can testify this by asking how and why and if it answers then it's a good responsibilities and achievements.**
         - 👎 • Refactored the backend's code  (Why?)
         - 👎 • Improved beter coding readability, easier maintenance and development  (How?)
@@ -179,6 +181,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
         - 👍 Role: Co-author
     - ✅ **Include any relevant links or citations to verify your publication validity**
     - ❌ **Don't include irrelevant publications, such as personal blog posts or unrelated articles**
+    - ❌ **Don't include publications that have not been finalized yet**
     - ❌ **Don't include publications that are outdated or no longer relevant to your current field**
 
 
@@ -212,7 +215,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 ### Hints And Best Practices
 - ### Contexting
+    - ✅ **First comes your name, then your job title on top of your resume, with big fonts**
     - ✅ **Use correct grammar and professional language, use grammarly to find grammar mistake**
+    - ✅ **Use black color for your fonts only, titles can be in another color but the main's context must be in black.**
     - ✅ **Save your resume with your name, alongside with the day you generated it, this can help recruiter to understand that you have customized your resume for the job. For example you may write ManiMozaffar_2022-07-25**
     - ✅ **One or two line per bullet point is enough, no more**
     - ✅ **First comes the position, second comes the company's name. Make sure to follow that order. Same goes for university, first degree's subject's name, second university's name**
