@@ -98,7 +98,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
         - 👎 • Refactored the backend's code  (Why?)
         - 👎 • Improved beter coding readability, easier maintenance and development  (How?)
         - 👍 • Refactored the backend's code for beter coding readability, easier maintenance and development
-
+    - ✅ **Remember that the HR team will first read your bullet points, if it's to hard to follow, then it's not a good one. Make sure the achievement are understable to HRs. In examples, I provided enough information regarding why I did (efficiency and high volumes for systematized transaction) and how I did (PostgreSQL replication, indexing and materialized views). The how should be enough information to satisfy a technical person, and why should be enough information to satisfy a non-technical person such as HR**
+        - 👎 • Used replication, indexing and materialized views
+        - 👍 • Constructed a systematized transaction system with PostgreSQL replication, indexing and materialized views, for efficiency and high volumes
     - ✅ **Quantify your achievements with specific metrics or numbers, when possible**
     - ✅ **Focus on your contributions to the company or team, not just your day-to-day tasks**
         - 👎 • Completed daily tasks and maintained project timelines 
