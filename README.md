@@ -8,12 +8,12 @@ Create winning IT resumes with awesome-resumes. Practical tips, guidelines, and 
 
 Even good resumes I see, have some common mistakes in themselves, so let's go over through 10 most common mistakes one by one, if your resume has even one of these big mistakes, then it means that this repository is gonna earn you many interviews!
 
-**1. Complex langauge: Dont use langauges and words that are too hard to understand and follow**
+**1. Complex language: Dont use languages and words that are too hard to understand and follow**
 
 - ❌ Executed a multitude of tasks pertaining to the optimization of manifold software paradigms.
 - ✅ Improved software performance by 20%
 
-**2. Buzz Words: Don't use buzz words too much in a way that seems not appropriate and normal**
+**2. Buzz Words: Don't use buzzwords too much in a way that seems not appropriate and normal**
 
 - ❌ Leveraged agile methodologies in a cross-functional team to ideate scalable efficient solutions
 - ✅ Leveraged Agile practices to improve team collaboration
@@ -23,9 +23,9 @@ Even good resumes I see, have some common mistakes in themselves, so let's go ov
 - ❌ Increased code performance by 200% (without context or evidence)
 - ✅ Optimized SQL queries by creating a caching layer, reducing load time by 50%, approved by A/B testing for the release candidate
 
-**4. Unrelated achievements: The person who gonna hire you doesn't care in first place that what was your personal life achievement in most scenario, so make sure to keep your resume related to the job you're trying to apply for.**
+**4. Unrelated achievements: The person who gonna hire you doesn't care in the first place what was your personal life achievement in most scenarios, so make sure to keep your resume related to the job you're trying to apply for.**
 
-- ❌ Increase sale and turn-over with ... business strategy (whatever, you're a developer! and your resume is for developer, not a business strategist/sale)
+- ❌ Increase sales and turn-over with ... business strategy (whatever, you're a developer! and your resume is for developer, not a business strategist/sale)
 - ✅ Designed and implemented a caching solution that improved system latency
 
 **5. Invalid technical statements: That's true! I've seen people saying they optimized their code by following clean code principles, which is not technically correct and possible, because that's just 2 different matters! So make sure that the statement and claim you have in your resume is technically correct**
@@ -33,28 +33,28 @@ Even good resumes I see, have some common mistakes in themselves, so let's go ov
 - ❌ Optimized code by following clean code principles
 - ✅ Refactored legacy code to improve readability and maintainability
 
-**6. Be ATS Friendly: If your resume isn't ATS friendly, even if it's the best in world, it won't be even considered. Make sure you read the ATS section and apply the recommended solutions to your resume.**
+**6. Be ATS Friendly: If your resume isn't ATS friendly, even if it's the best in the world, it won't even be considered. Make sure you read the ATS section and apply the recommended solutions to your resume.**
 
 - ❌ You're applying for "ReAct Frontend Position" but in your CV your title is "front-end" and React isn't mentioned.
 - ✅ You know how ATS works, and you write your resume in a way to trigger ATS to be your mate, not your enemy.
 
-**7. Bad Written Skills: make sure you read the skill section, I have seen people mentioning many skills that they actually don't have any idea about it. Wriitng your skill section carefully and nicely, will really increase the chance of getting interview and also getting the job offer!**
+**7. Bad Written Skills: make sure you read the skill section, I have seen people mentioning many skills that they don't have any idea about. Writing your skill section carefully and nicely will increase the chance of getting an interview and also getting the job offer!**
 
-- For Python Backend Developer Postion:
+- For Python Backend Developer Position:
 - ❌ Expert in Java, C++, Python, Machine Learning, Maria DB, PostgreSQL, MySQL, FastAPI, Django, SQL, Spring Boot, Docker
 - ✅ Python, Docker, Django, FastAPI, SQL
 
-**8. About me is not a documentary film: I've seen poeple overdoing in About me section, or even in some cases TOO REGULAR about me, which is more likely to be 'ABOUT ANY PYTHON DEVELOPER' rather than about being you, so make sure you read the about me section if you don't have any idea how specific and what details you should write.**
+**8. About Me is not a documentary film: I've seen people overdoing in About me section, or even in some cases TOO REGULAR about me, which is more likely to be 'ABOUT ANY PYTHON DEVELOPER' rather than about being you, so make sure you read the about me section if you don't have any idea how specific and what details you should write.**
 
-**9. They didn't use bullet point! that's like resume-101, if your resume doesn't have bullet point then you're gonna be 99.99% rejected! make sure to go through the repository to see what does a good bullet point means**
+**9. They didn't use bullet point! that's like resume-101, if your resume doesn't have bullet point then you're gonna be 99.99% rejected! make sure to go through the repository to see what a good bullet point means**
 
 - ❌ Writing paragraphs that make it hard to quickly identify key information
 
-**10. Bad/Invalid Structure: Some people don't follow the general resume style and convention, which result in rejection. Make sure your resume is standard, just write it using a website resume creator! Some have been offered in bottom of repository.**
+**10. Bad/Invalid Structure: Some people don't follow the general resume style and convention, which results in rejection. Make sure your resume is standard, just write it using a website resume creator! Some have been offered at the bottom of the repository.**
 
 ## Contribution
 
-Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions).
+Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to the contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions).
 
 ## Table of Contents
 
@@ -111,47 +111,47 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 - ### About Me
   - ✅ **Write about 2-4 lines**
-  - ✅ **First comes the the country name, second comes the city's name where you live.**
+  - ✅ **First comes the country name, second comes the city name where you live.**
   - ✅ **from third person view perspective**
     - 👎 I am a developer a backend developer with 5 years experience cc
     - 👍 A backend developer with 5 years experience
   - ✅ **Highlight your key skills and areas of expertise**
-    - 👎 An experinced backend developer with 5 years experience
-    - 👍 An experinced backend developer with a years of experience using microservice and service orinted design
+    - 👎 An experienced backend developer with 5 years of experience
+    - 👍 An experienced backend developer with years of experience using microservice and service-oriented design
   - ✅ **Emphasize your unique related value proposition or memberships**
     - 👍 Contributed to the development of several open-source Python projects, including Django Rest Framework and Pandas.
-  - ✅ **Using academic address is better than using public address like gmail**
+  - ✅ **Using an academic address is better than using a public address like Gmail**
     - 👍 example@academicinstitution.edu
     - 👎 example@gmail.com
   - ✅ **Use hyperlinks for your contract information**
-  - ✅ **Must include linkedin, and maybe github or alternative platforms**
-  - ✅ **A good photo is better than no photo, and no photo is better than bad photo. Good photo is considered as you wearing a professional clothes, such as suit.**
+  - ✅ **Must include LinkedIn and maybe GitHub or alternative platforms**
+  - ✅ **A good photo is better than no photo, and no photo is better than a bad photo. A good photo is considered as you wearing professional clothes, such as a suit.**
   - ❌ **Don't Share personal information such as age, religion, political views, or exact address information**
-    - 👎 A 22 years old experinced backend developer
+    - 👎 A 22 year old experienced backend developer
     - 👍 A backend developer with 5 years experience
   - ❌ **Don't Include irrelevant information or hobbies**
     - 👎 Passionate about psychology
-    - 👍 Passionate about open sources contribution
+    - 👍 Passionate about open source contribution
   - ❌ **Don't Use unprofessional language or tone**
     - 👎 Really interesting helping out with open-source stuff. Like for serious, super pumped about it
-    - 👍 Passionate about open sources contribution
+    - 👍 Passionate about open source contribution
   - ❌ **Don't put the focus on only your skills, this is general information and a quick summary of your resume not your skill lists**
-  - ❌ **Avoid mentioning any soft skills directly or indirectly; unless it's been underhood of your job title (Lead developer, CTO, Founder or etc)**
+  - ❌ **Avoid mentioning any soft skills directly or indirectly; unless it's been underhood of your job title (Lead developer, CTO, Founder, etc)**
 - ### Work Experience
 
   - ✅ **Use bullet points**
     - 👎 ................
     - 👍 • ................
-  - ✅ **Write minimum 2 bullet points, maximum 6. Even elon musk doesn't write more than 6 :/**
-  - ✅ **Start with your most recent or current position and work backwards**
-  - ✅ **Make sure your jobs don't have overlap with each other or other experiences, such as teaching, only overlap that is allowed is Work Experience with Education.**
-  - ✅ **Use bullet points to list your responsibilities and achievements for each job, you can testify this by asking how and why and if it answers then it's a good responsibilities and achievements.**
+  - ✅ **Write minimum 2 bullet points, maximum 6. Even Elon Musk doesn't write more than 6:/**
+  - ✅ **Start with your most recent or current position and work backward**
+  - ✅ **Make sure your jobs don't overlap with each other or other experiences, such as teaching, the only overlap that is allowed is Work Experience with Education.**
+  - ✅ **Use bullet points to list your responsibilities and achievements for each job, you can testify this by asking how and why, and if it answers then it's a good responsibility and achievements.**
     - 👎 • Refactored the backend's code (Why?)
-    - 👎 • Improved beter coding readability, easier maintenance and development (How?)
-    - 👍 • Refactored the backend's code for beter coding readability, easier maintenance and development
-  - ✅ **Remember that the HR team will first read your bullet points, if it's to hard to follow, then it's not a good one. Make sure the achievement are understable to HRs. In examples, I provided enough information regarding why I did (efficiency and high volumes for systematized transaction) and how I did (PostgreSQL replication, indexing and materialized views). The how should be enough information to satisfy a technical person, and why should be enough information to satisfy a non-technical person such as HR**
-    - 👎 • Used replication, indexing and materialized views
-    - 👍 • Constructed a systematized transaction system with PostgreSQL replication, indexing and materialized views, for efficiency and high volumes
+    - 👎 • Improved better coding readability, easier maintenance and development (How?)
+    - 👍 • Refactored the backend's code for better coding readability, easier maintenance and development
+  - ✅ **Remember that the HR team will first read your bullet points, if it's too hard to follow, then it's not a good one. Make sure the achievements are understandable to HRs. For example, I provided enough information regarding why I did it (efficiency and high volumes for systematized transactions) and how I did it (PostgreSQL replication, indexing, and materialized views). The how should be enough information to satisfy a technical person, and why should be enough information to satisfy a non-technical person such as HR**
+    - 👎 • Used replication, indexing, and materialized views
+    - 👍 • Constructed a systematized transaction system with PostgreSQL replication, indexing, and materialized views, for efficiency and high volumes
   - ✅ **Quantify your achievements with specific metrics or numbers, when possible**
   - ✅ **Focus on your contributions to the company or team, not just your day-to-day tasks**
     - 👎 • Completed daily tasks and maintained project timelines
@@ -159,8 +159,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - ✅ **Highlight any promotions, leadership positions, or additional responsibilities you took on**
   - ✅ **Tailor your bullet points to match the requirements of the job you are applying for**
     - Example: Applying to a frontend job
-    - 👎 • Refactored the backend's code for beter coding readability, easier maintenance and development
-    - 👍 • Improved coding readability by refactoring some codes with providing proper documenantion
+    - 👎 • Refactored the backend's code for better coding readability, easier maintenance and development
+    - 👍 • Improved coding readability by refactoring some codes with providing proper documentation
   - ❌ **Don't exaggerate or embellish your accomplishments, but also don't be too modest**
     - 👎 • Single-handedly developed and launched a new product that generated millions in revenue
     - 👍 • Collaborated with a team to develop and launch a new product that generated significant revenue
@@ -175,7 +175,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - ✅ **Provide a brief description of each project, including its purpose, your role, and the technologies used**
   - ✅ **Focus on your contributions to the project and any notable achievements, such as meeting tight deadlines or exceeding project goals**
     - 👍 • Optimized the database design to improve query performance, resulting in a 20% reduction in page load times
-    - 👎 • Worked on the frontend, designing the user interface and implementing many features (Not an achievements)
+    - 👎 • Worked on the frontend, designing the user interface and implementing many features (Not an achievement)
   - ❌ **Don't include irrelevant or outdated projects that don't showcase your current skills and expertise**
   - ❌ **Avoid listing incomplete or ongoing projects, unless they are particularly impressive or demonstrate a unique skill set**
 
@@ -189,26 +189,26 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   When mentioning your skill, you have to support and prove that you have that skill through your resume with your bullet points, so make sure you've covered all your skills with at least 1 supportive sentence.
 
-  Remember to never estimate your skill, unless you have a VALID certificate that proves it. A valid certificate is a one that you have gone through an exam for it, and it's widely accepted to be considered as a valid level, like AWS certificates.
+  Remember to never estimate your skill, unless you have a VALID certificate that proves it. A valid certificate is one that you have gone through an exam for, and it's widely accepted to be considered as a valid level, like AWS certificates.
 
-  Remember to think twice about adding a skill to your resume, a bad example would be that you just know SQL syntax but you include PostgreSQL as your skill because you have installed it once. When you mention PostgreSQL, it means you can talk 15 minutes about it, saying what PotgreSQL is, and how it is different from other relational dbs, and AT LEAST some theory knowledge about features of PostgreSQL such as Materlized View, window functions, recursive CTE, special data types, and special Indexes. So be very specific and careful about what you mention as Skill.
+  Remember to think twice about adding a skill to your resume, a bad example would be that you just know SQL syntax but you include PostgreSQL as your skill because you have installed it once. When you mention PostgreSQL, it means you can talk for 15 minutes about it, saying what PostgreSQL is, and how it is different from other relational DBs, and AT LEAST some theory knowledge about features of PostgreSQL such as Materlized View, window functions, recursive CTE, special data types, and special Indexes. So be very specific and careful about what you mention as Skill.
 
   - ✅ **List your relevant hard skills, including programming languages, software, and tools**
     - 👍 Python, Django, FastAPI, Docker, Kubernetes, AWS, PostgreSQL, SQL (For example job title was Python Backend Developer)
-  - ✅ **Include any non-technical skills that are relevant to the job/working env, not soft skill!**
+  - ✅ **Include any non-technical skills that are relevant to the job/working env, not soft skills!**
     - 👍 Scrum, agile
   - ✅ **Highlight any specialized skills or certifications to back-up your skills**
     - 👍 AWS (Certified Solutions Architect) - Scrum Master (Associate, Certified Scrum Master), Six Sigma Green Belt
   - ❌ **Avoid listing too many skills or including irrelevant ones**
     - 👎 Microsoft Word, Customer Service, Cooking, Guitar Playing, React (Job title was Python Backend Developer)
-  - ❌ **Avoid listing skills you dont actually have, but you just installed it and worked with it**
+  - ❌ **Avoid listing skills you don't have, but you just installed and worked with it**
     - 👎 You know SQL, but you mention PostgreSQL.
   - ❌ **Don't exaggerate or claim to have skills you don't actually possess**
-  - ❌ **Avoid giving rating to your skills in term of stars or anything, you may only backup your skill with valid certificates**
+  - ❌ **Avoid giving ratings to your skills in terms of stars or anything, you may only backup your skill with valid certificates**
     - 👎 AWS Expert
     - 👎 Familiar with AWS
     - 👍 AWS (Certified Solutions Architect)
-  - ❌ **Don't list your soft skills, you have to actually indirectly mention them through the work experinces**
+  - ❌ **Don't list your soft skills, you have to actually indirectly mention them through the work experience**
     - 👎 Adoptable, Leadership
 
 - ### Education
@@ -270,7 +270,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     - Full professional proficiency
     - Native or bilingual proficiency
   - ✅ **List languages you are proficient in or may be related to the job, and indicate your level of proficiency**
-  - ✅ **Backup your language level with providing hyperlink to a certification like TOEFL's grade**
+  - ✅ **Backup your language level by providing a hyperlink to certification like TOEFL's grade**
   - ❌ **Don't list languages that you are not proficient in or that are not relevant to the job you are applying for, unless it's your native language.**
 
 ### Hints And Best Practices
@@ -278,24 +278,24 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 - ### Contexting
 
   - ✅ **First comes your name, then your job title on top of your resume, with big fonts**
-  - ✅ **Use correct grammar and professional language, use grammarly to find grammar mistake**
+  - ✅ **Use correct grammar and professional language, use Grammarly to find grammar mistakes**
   - ✅ **Use black color for your fonts only, titles can be in another color but the main's context must be in black.**
-  - ✅ **Save your resume with your name, alongside with the day you generated it, this can help recruiter to understand that you have customized your resume for the job. For example you may write ManiMozaffar_2022-07-25**
-  - ✅ **One or two line per bullet point is enough, no more**
+  - ✅ **Save your resume with your name, alongside the day you generated it, this can help the recruiter understand that you have customized your resume for the job. For example, you may write ManiMozaffar_2022-07-25**
+  - ✅ **One or two lines per bullet point is enough, no more**
   - ✅ **First comes the position, second comes the company's name. Make sure to follow that order. Same goes for university, first degree's subject's name, second university's name**
   - ✅ **Date is better to be written as MM/YYYY all around your resume, like 02/2020**
   - ✅ **You have to use past tense and passive voice for all your sentences except for summary/about me**
   - ✅ **Use third person view when writing your resume**
     - 👎 I am a developer a backend developer with 5 years experience
     - 👍 A backend developer with 5 years experience
-  - ✅ **Use proper spacing, so that it'd be friendly to eye when reading**
-  - ✅ **Use vertical template, having one column per each page section is a good practice**
+  - ✅ **Use proper spacing, so that it'd be friendly to the eye when reading**
+  - ✅ **Use a vertical template, having one column per page section is a good practice**
   - ✅ **Use between 475 to 600 words in your resume**
-  - ✅ **Write your resume in 1 page if you have less than 10 years experince, otherwise write 2 pages**
+  - ✅ **Write your resume in 1 page if you have less than 10 years experience, otherwise write 2 pages**
   - ✅ **Best resume font sizes are: 11-12pt for normal text, 14-16pt for section titles and headers**
   - ✅ **Generally write your texts in bullet points except for about me**
   - ✅ **Try using resumeworded or similiar website to improve your context, +70 grade in resumeworded is ideal, don't necessarily aim to get 100 because it's AI validated, not a very accurate indicator**
-  - ✅ **Use proper action verb, while avoiding weak verbs such as `did`**
+  - ✅ **Use proper action verbs while avoiding weak verbs such as `did`**
     - 👎 Created a new software system that increased productivity by 20%
     - 👍 Implemented a new software system that increased productivity by 20%
   - ✅ **Quantify your achievements. Use numbers and percentages to highlight your achievements and show the impact of your work**
@@ -303,21 +303,21 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - ✅ **Include relevant experience, even if it is not paid work**
   - ✅ **Include a call to action. At the end of your resume, include a call to action such as "Please contact me if you have any questions or would like to schedule an interview."**
   - ❌ **Do not use vague or unclear language. Your resume should be written in clear and concise language that accurately conveys your skills and experience. Avoid using overly technical terms or jargon that may not be familiar to the reader.**
-  - ❌ **Avoid using emoji or too colorful designs as it decrease the 6 second impression, keep your resume simple**
+  - ❌ **Avoid using emoji or too colorful designs as it decreases the 6 second impression, keep your resume simple**
 
 - ### Six Second Impression
 
   The "Six Second Impression" is a concept in the recruiting industry that suggests that employers spend an average of six seconds scanning a candidate's resume before deciding whether to move forward with the application or reject it. This means that your resume needs to make a strong first impression and quickly communicate your qualifications and suitability for the job.
 
-  To make the most of those six seconds, it's important to format your resume in a clear and concise manner, using bullet points and action verbs to highlight your achievements and skills. Use a readable font and keep the layout simple and easy to follow. Additionally, tailor your resume to the job you are applying for, highlighting the skills and experiences that are most relevant to the position.
+  To make the most of those six seconds, it's important to format your resume clearly and concisely, using bullet points and action verbs to highlight your achievements and skills. Use a readable font and keep the layout simple and easy to follow. Additionally, tailor your resume to the job you are applying for, highlighting the skills and experiences that are most relevant to the position.
 
   It's also important to remember that the six-second rule is not a hard and fast rule. While some employers may only glance at a resume for a few seconds before making a decision, others may take more time to carefully review each application. However, keeping the "Six Second Impression" in mind can help you create a resume that makes a strong initial impact and encourages employers to take a closer look at your qualifications.
 
 - ### Purpose of Resume
 
-  The purpose of a resume is to showcase your skills, experience, and qualifications to potential employers, with the goal of securing an interview and ultimately landing a job. A well-written resume should provide a clear and concise summary of your background and highlight your most relevant accomplishments and skills. It should also demonstrate how you can contribute to the company and solve their problems.
+  The purpose of a resume is to showcase your skills, experience, and qualifications to potential employers, with the goal of securing an interview and ultimately landing a job. A well-written resume should provide a clear and concise summary of your background and highlight your most relevant accomplishments and skills. It should also demonstrate how you can contribute to the company and solve its problems.
 
-  In order to achieve this purpose, it's important to avoid using a generic or one-size-fits-all approach to writing your resume. Every job and every employer is different, so your resume should be customized to the specific job you are applying for. This means tailoring your resume to highlight the skills and experiences that are most relevant to the job, and using specific examples and achievements to demonstrate your qualifications.
+  In order to achieve this purpose, it's important to avoid using a generic or one-size-fits-all approach to writing your resume. Every job and every employer is different, so your resume should be customized to the specific job you are applying for. This means tailoring your resume to highlight the skills and experiences that are most relevant to the job and using specific examples and achievements to demonstrate your qualifications.
 
   Using a generic or one-size-fits-all approach can make your resume appear unfocused and unprofessional, and may not effectively communicate your qualifications to potential employers. By taking the time to customize your resume for each job application, you can increase your chances of standing out from other candidates and securing an interview.
 
@@ -331,20 +331,20 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   ATS stands for Applicant Tracking System, which is a software tool used by many companies to manage the recruitment process. The purpose of an ATS is to help recruiters and hiring managers organize and sort through large volumes of resumes quickly and efficiently.
 
-  When you submit your resume to a company through an online application system, it is typically first reviewed by an ATS. The system scans your resume for specific keywords and phrases that match the requirements of the job, and ranks your resume based on how well it matches these criteria.
+  When you submit your resume to a company through an online application system, it is typically first reviewed by an ATS. The system scans your resume for specific keywords and phrases that match the requirements of the job and ranks your resume based on how well it matches these criteria.
 
   To optimize your resume for ATS, it's important to use keywords and phrases that are relevant to the job you are applying for. These keywords should be included in your resume's summary, work experience, and skills sections. It's also important to use standard resume formatting, such as bullet points and clear section headings, as ATS systems may have difficulty reading unconventional formats.
 
   You should write your resume in a way that is friendly to ATS, not an enemy, Some tips for that
   - ATS system may be case sensitive and stupid, so if the job title is "frontend", then write "frontend", not "front-end" or "FrontEnd" or "front end".
-  - There are keywords and structure that you MUST have in your resume, like bullet points and clear section headings and etc. Make sure you have them all.
-  - You've to match your resume versus the description, make sure the exact words in the description is also matched in your resume. You can even consider writing a script yourself to see how many % it match. Just don't overdo it in a way to copy paste the advertisement in your resume haha
+  - There are keywords and structure that you MUST have in your resume, like bullet points and clear section headings, etc. Make sure you have them all.
+  - You've to match your resume versus the description, make sure the exact words in the description are also matched in your resume. You can even consider writing a script yourself to see how many % it matches. Just don't overdo it in a way to copy-paste the advertisement into your resume haha
   - The resume has written "React.js", but you have written "Re-act", which simply may result in your rejection. Remember to consider ATS as a very dumb person.
-  - Make sure your sections and document can be recogznied by ATS, you can try uploading your resume in few website ATS to see if they could detect the text inside your resume or not. They may not in a conditions such as weird font, bad styling and etc.
+  - Make sure your sections and documents can be recognized by ATS, you can try uploading your resume to a few websites ATS to see if they can detect the text inside your resume or not. They may not be in conditions such as weird font, bad styling, etc.
 
 - ### Style
 
-  There are several different styles of resumes, each with their own strengths and weaknesses. Here are some of the most common resume styles:
+  There are several different styles of resumes, each with their strengths and weaknesses. Here are some of the most common resume styles:
 
   - **1. Chronological**
     This style lists your work experience in reverse chronological order, starting with your most recent position. It is a traditional format that is easy to read and understand, but may not be ideal for candidates with gaps in their employment history or those who have changed careers.
