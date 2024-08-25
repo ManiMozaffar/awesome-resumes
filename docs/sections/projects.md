@@ -1,6 +1,11 @@
 # How to List Projects on Your Resume
 
-Including projects on your resume can be a game-changer, especially if you’re a recent grad, changing careers, or have experience that isn’t fully captured in your job titles. Here’s how to do it right:
+## Learn how to write a good bullet points for your project section
+
+[The most important part of writing a project section is to write a good bullet points. Make sure to read that section first, before jumping on this section!](../guidelines/structure.md/#bullet-points)
+
+Including projects on your resume can be a game-changer, especially if you’re a recent grad, changing
+careers, or have experience that isn’t fully captured in your job titles. Here’s how to do it right:
 
 ## Be Selective
 
