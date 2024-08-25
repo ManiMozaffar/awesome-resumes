@@ -16,7 +16,7 @@ When mentioning your skill, you have to support and prove that you have that ski
 
 Remember to never estimate your skill, unless you have a VALID certificate that proves it. A valid certificate is one that you have gone through an exam for, and it's widely accepted to be considered as a valid level, like AWS certificates.
 
-Remember to think twice about adding a skill to your resume, a bad example would be that you just know SQL syntax but you include PostgreSQL as your skill because you have installed it once. When you mention PostgreSQL, it means you can talk for 15 minutes about it, saying what PostgreSQL is, and how it is different from other relational DBs, and AT LEAST some theory knowledge about features of PostgreSQL such as Materlized View, window functions, recursive CTE, special data types, and special Indexes. So be very specific and careful about what you mention as Skill.
+Remember to think twice about adding a skill to your resume, a bad example would be that you just know SQL syntax but you include PostgreSQL as your skill because you have installed it once. When you mention PostgreSQL, it means you can talk for 15 minutes about it, saying what PostgreSQL is, and how it is different from other relational DBs, and AT LEAST some theory knowledge about features of PostgreSQL such as Materialized View, window functions, recursive CTE, special data types, and special Indexes. So be very specific and careful about what you mention as Skill.
 
 ### Guidelines
 

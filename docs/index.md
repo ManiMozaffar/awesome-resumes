@@ -8,7 +8,7 @@ Welcome to the **Awesome Resumes** project! This guide will walk you through how
 
 !!! danger "Scary fact!"
 
-    Did you know that only 1 in 50 resume get an interview? That's a 2% chance of getting an interview. This is why it's crucial to have a well-crafted resume that stands out from the rest.
+    Did you know that only 1 in 50 resumes get an interview? That's a 2% chance of getting an interview. This is why it's crucial to have a well-crafted resume that stands out from the rest.
 
 ## Why This Project Matters
 
@@ -49,9 +49,9 @@ This repository primarily helps with the **first stage**: getting you past the i
 
 ## Next Steps
 
-1. **Understand the definiation**: Understand the definitions and words used in the entire guidelines.
+1. **Understand the definition**: Understand the definitions and words used in the entire guidelines.
 2. **Learn about structure**: Learn about the structure of the resume and how to organize your content. There is a separate guide for this.
-3. **Learn about each section invidually in deep**: Learn about each section in detail and how to write them. There is a separate guide for each section.
+3. **Learn about each section individually in deep**: Learn about each section in detail and how to write them. There is a separate guide for each section.
 4. **Understand strategies**: Understand the strategies to make your resume stand out.
 5. **Start crafting your resume**: Pick up a template and start crafting your resume.
 

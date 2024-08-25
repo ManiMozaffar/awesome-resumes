@@ -54,7 +54,7 @@ Let's walk through the example above:
 
 - **Curious, and willingly takes on tasks beyond the usual scope:** I have showcased this in my entire resume. From the above screenshot, you can see me working on Crawlers, security, data science, business intelligence, devops, and more.
 
-- **Thrives on solving complex problems with creative thinking and an automation-first approach:** I have showcased this in my entire resume again, where I automate alot of workflows even applying for jobs (I wrote a linkedin bot that does this). You can see the screenshot above (either work experience or open source contributions).
+- **Thrives on solving complex problems with creative thinking and an automation-first approach:** I have showcased this in my entire resume again, where I automate a lot of workflows even applying for jobs (I wrote a linkedin bot that does this). You can see the screenshot above (either work experience or open source contributions).
 
 - **Integrating observability tools to ensure ongoing system reliability:** I have showcased using Signoz, opentelemetry, prometheus and grafana in my resume. You can find one example in last work experience which I already showed you above.
 
@@ -87,7 +87,7 @@ Let's walk through the example above:
       - 👍 Passionate about open source contribution
 
 - ❌ **Don't put the focus on only your skills, this is general information and a quick summary of your resume not your skill lists**
-- ❌ **Avoid mentioning any soft skills directly or indirectly; unless it's been underhood of your job title (Lead developer, CTO, Founder, etc)**
+- ❌ **Avoid mentioning any soft skills directly or indirectly; unless it's been under the hood of your job title (Lead developer, CTO, Founder, etc)**
 - ### Work Experience
 
 ## Final Thoughts

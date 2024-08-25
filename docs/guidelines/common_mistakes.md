@@ -1,6 +1,6 @@
 Even good resumes I see, have some common mistakes in themselves, so let's go over through 10 most common mistakes one by one, if your resume has even one of these big mistakes, then it means that this repository is gonna earn you many interviews!
 
-**1. Complex language: Dont use languages and words that are too hard to understand and follow**
+**1. Complex language: Don't use languages and words that are too hard to understand and follow**
 
 - ❌ Executed a multitude of tasks pertaining to the optimization of manifold software paradigms.
 - ✅ Improved software performance by 20%

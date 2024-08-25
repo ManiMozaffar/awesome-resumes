@@ -8,11 +8,11 @@ If you have already forked this repository, please update your forked repository
 
 
 ### Qualified Resumes
-We have collected this archive as a comprehensive starting point for those who need to create a winning IT resume. Before you add your reusmes, please make sure that your resume meet the following requirements:
+We have collected this archive as a comprehensive starting point for those who need to create a winning IT resume. Before you add your resume, please make sure that your resume meet the following requirements:
 
 - Adopted to all the guidelines and considered as a best practice.
 - The permission of owner is required for publishing his/her resume if it's not yours.
-- Levels are Beginner(Less than 2 year experience), Intermediate (2-5 years experience), and Expert (+5 Years experience). Name your pdf file with your last name followed by your level seperated with a dash, for example Intermediate-Mozaffar.pdf, only PDF files are acceptable.
+- Levels are Beginner(Less than 2 year experience), Intermediate (2-5 years experience), and Expert (+5 Years experience). Name your pdf file with your last name followed by your level separated with a dash, for example Intermediate-Mozaffar.pdf, only PDF files are acceptable.
 - Resume is uploaded to relevant field.
 
 ### Request for a new section..

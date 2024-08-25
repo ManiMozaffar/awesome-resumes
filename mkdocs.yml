@@ -1,5 +1,5 @@
 site_name: Awesome Resumes
-site_description: An asyncio-based scheduling framework designed for execution of periodic task with integrated support for dependency injection, enabling efficient and flexiable task management
+site_description: An asyncio-based scheduling framework designed for execution of periodic task with integrated support for dependency injection, enabling efficient and flexible task management
 repo_url: https://github.com/ManiMozaffar/awesome-resumes
 site_url: https://ManiMozaffar.github.io/awesome-resumes
 site_author: Mani Mozaffar
@@ -97,14 +97,14 @@ nav:
       - Resume Structure: guidelines/structure.md
       - Common Mistakes: guidelines/common_mistakes.md
       - Application Tracking System(ATS): guidelines/ats.md
-      - Shotgun vs target approac: guidelines/shotgun_vs_target.md
+      - Shotgun vs target approach: guidelines/shotgun_vs_target.md
 
       - Mandatory Resume Sections:
           - Personal Information: sections/personal_information.md
           - Summary: sections/summary.md
           - Skills: sections/skills.md
           - Work Experience: sections/work_experience.md
-      - Optional Resume Secionts:
+      - Optional Resume Sections:
           - Education: sections/education.md
           - Projects: sections/projects.md
           - References: sections/references.md
