@@ -1,0 +1,121 @@
+site_name: Awesome Resumes
+site_description: An asyncio-based scheduling framework designed for execution of periodic task with integrated support for dependency injection, enabling efficient and flexiable task management
+repo_url: https://github.com/ManiMozaffar/awesome-resumes
+site_url: https://ManiMozaffar.github.io/awesome-resumes
+site_author: Mani Mozaffar
+repo_name: ManiMozaffar/awesome-resumes
+copyright: Maintained by <a href="https://ManiMozaffar.com">Mani Mozaffar</a>.
+
+theme:
+  name: "material"
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - content.code.annotate
+    - content.tabs.link
+    - content.code.copy
+    - announce.dismiss
+    - search.suggest
+    - search.highlight
+  # logo: assets/logo-white.svg
+  # favicon: assets/favicon.png
+
+edit_uri: ""
+
+# https://www.mkdocs.org/user-guide/configuration/#validation
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+
+extra:
+  navigation:
+    next: true
+    previous: true
+
+extra_css:
+  - "extra/tweaks.css"
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.extra
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search:
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            members_order: source
+            separate_signature: true
+            docstring_options:
+              ignore_init_summary: true
+            merge_init_into_class: true
+            show_signature_annotations: true
+            signature_crossrefs: true
+
+  - mkdocs-simple-hooks:
+      hooks:
+        on_pre_build: "docs.plugins:on_pre_build"
+        on_files: "docs.plugins:on_files"
+        on_page_markdown: "docs.plugins:on_page_markdown"
+
+nav:
+  - Documentation:
+      - Getting Started: getting-started.md
+      - Definitions: definitions.md
+      - Resume Structure: guidelines/structure.md
+      - Common Mistakes: guidelines/common_mistakes.md
+      - Application Tracking System(ATS): guidelines/ats.md
+      - Shotgun vs target approac: guidelines/shotgun_vs_target.md
+
+      - Mandatory Resume Sections:
+          - Personal Information: sections/personal_information.md
+          - Summary: sections/summary.md
+          - Skills: sections/skills.md
+          - Work Experience: sections/work_experience.md
+      - Optional Resume Secionts:
+          - Education: sections/education.md
+          - Projects: sections/projects.md
+          - References: sections/references.md
+          - Certifications & Trainings: sections/certifications.md
+          - Publications & Conferences: sections/publications.md
+          - Volunteer Experience: sections/volunteer_experience.md
+          - Awards: sections/awards.md
+          - Memberships: sections/memberships.md
+          - Languages: sections/languages.md
+
+      - Templates: guidelines/templates.md
+      - After Sending Resume: guidelines/after_sending_resume.md
+
+  - Samples: samples.md
