@@ -92,7 +92,7 @@ plugins:
 
 nav:
   - Documentation:
-      - Getting Started: getting-started.md
+      - Getting Started: index.md
       - Definitions: definitions.md
       - Resume Structure: guidelines/structure.md
       - Common Mistakes: guidelines/common_mistakes.md
