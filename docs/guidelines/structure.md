@@ -18,7 +18,7 @@ A very good example for all guidelines you'll read in this page:
 - ✅ Generally write your texts in bullet points except for summary section.
 - ✅ Best resume font sizes are: 11-12pt for normal text, 14-16pt for section titles and headers
 - ✅ Better write your resume in 1 page if you have less than 7-10 years experience, otherwise write 2 pages
-- ✅ Use proper spacing, so that it'd be friendly to the eye when reading. Dates andname of companies you worked in, and each sections should be recognizable with one glance.
+- ✅ Use proper spacing, so that it'd be friendly to the eye when reading. Dates and name of companies you worked in, and each sections should be recognizable with one glance.
 - ✅ Include relevant experience, even if it is not paid work
 - ✅ Include a summary or objective statement at the top of your resume. This can help the hiring manager quickly understand what you have to offer and why you are a good fit for the job. Follow the section related ot it to understand how to write one.
 - ✅ Make sure your jobs don't overlap with each other or other experiences, such as teaching, the only overlap that is allowed is Work Experience with Education.
@@ -61,7 +61,7 @@ In typography, a bullet or bullet point, •, is a typographical symbol or glyph
       - 👎 • Improved better coding readability, easier maintenance and development (How?)
       - 👍 • Refactored the backend's code for better coding readability, easier maintenance and development
 
-      - 👎 Answered customer's calls everyday, and resolved a thousand ticekt (day-to-day task)
+      - 👎 Answered customer's calls everyday, and resolved a thousand ticket (day-to-day task)
       - 👎 Implement a notification system (one time task)
       - 👍 Implemented a notification system that increased user engagement by 20% (achievement)
 
@@ -78,13 +78,13 @@ In typography, a bullet or bullet point, •, is a typographical symbol or glyph
       - 👎 "Created a new software system that increased productivity by 20%."
       - 👍 "Implemented a new software system that increased productivity by 20%."
 
-- ✅ Quantify your achievements. Use numbers and percentages to highlight your achievements and show the impact of your work. **AVOID BULLSHITING NUMBERS!** Make sure you have a very strong arguement that can justify the number in your resume, and also during interview. **Usually resumes with too many numbers would be instantly rejected, so again don't overdo it!**
+- ✅ Quantify your achievements. Use numbers and percentages to highlight your achievements and show the impact of your work. **AVOID BULLSHITING NUMBERS!** Make sure you have a very strong argument that can justify the number in your resume, and also during interview. **Usually resumes with too many numbers would be instantly rejected, so again don't overdo it!**
 - ✅ **Remember that the HR team will first read your bullet points, if it's too hard to follow, then it's not a good one. Make sure the achievements are understandable to HRs. For example, I provided enough information regarding why I did it (efficiency and high volumes for systematized transactions) and how I did it (PostgreSQL replication, indexing, and materialized views). The how should be enough information to satisfy a technical person, and why should be enough information to satisfy a non-technical person such as HR**
 
       - 👎 • Used replication, indexing, and materialized views
       - 👍 • Constructed a systematized transaction system with PostgreSQL replication, indexing, and materialized views, for efficiency and high volumes
 
-- ❌ Avoid using synonym alongside each other. Be very mindfull about the context you're writing, don't spam words. Try to be straight to point.
+- ❌ Avoid using synonym alongside each other. Be very mindful about the context you're writing, don't spam words. Try to be straight to point.
 
       - 👎 A collaborator team-player backend developer with 5 years industry experience in backend engineering.
       - 👍 A team-player backend developer with 5 years experience.
@@ -119,11 +119,11 @@ This style lists your work experience in reverse chronological order, starting w
 
 #### Functional
 
-This style emphasizes your base skills, rather than your work experience. It can be useful for candidates who are changing careers to unrelevant field or have no work experience, but may not be ideal for those with a strong work history.
+This style emphasizes your base skills, rather than your work experience. It can be useful for candidates who are changing careers to irrelevant field or have no work experience, but may not be ideal for those with a strong work history.
 
 !!! danger "Don't use Functional if you can"
 
-    It's best to avoid functional resume. Only use it if you're applying for an internship and you have no previous working experience/similiar projects you can showcase.
+    It's best to avoid functional resume. Only use it if you're applying for an internship and you have no previous working experience/similar projects you can showcase.
     They're not ATS friendly, and HRs and technical people avoid them, because due to high competition they prefer reviewing with candidate who can actually present some core job skills.
 
 ??? info "Click to Expand the Example Functional Resume"
@@ -157,6 +157,6 @@ It features a single column of information that is organized in a clear and easy
 
 This style uses two section per row.
 
-!!! tip "My personal opition regarding which styling option to go with"
+!!! tip "My personal option regarding which styling option to go with"
 
     Between these two styles, the vertical resume with one column is often considered the best choice. It is a modern and visually appealing format that is easy to read and understand. The single column layout keeps the information organized and allows for clear section headings, making it easy for recruiters to quickly scan the resume for relevant information.

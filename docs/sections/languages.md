@@ -43,4 +43,4 @@ Listing language skills on your resume can give you a competitive edge, especial
 - ✅ **List languages you are proficient in or may be related to the job, and indicate your level of proficiency**
 - ✅ **Backup your language level by providing a hyperlink to certification like TOEFL's grade**
 - ❌ **Don't list languages that you are not proficient in or that are not relevant to the job you are applying for, unless it's your native language.**
-- ❌ **Don't use stars to express your skill in langauge. Use the proper label as mentioned above**
+- ❌ **Don't use stars to express your skill in language. Use the proper label as mentioned above**
