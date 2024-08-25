@@ -1,1 +1,0 @@
-Here are some samples provided with PDF, you may do a PR to add your own resume, but please read the Contributation guide for more information
