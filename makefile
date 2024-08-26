@@ -7,6 +7,6 @@ install: ## Install the rye environment
 serve: ## Install the rye environment
 	rye run mkdocs serve
 
-.PHONY: build
-build: ## Install the rye environment
+.PHONY: deploy
+deploy: ## Install the rye environment
 	rye run mkdocs gh-deploy
