@@ -7,3 +7,4 @@ The reason I prefer the first one is because it's very customization friendly, f
 - ### [Canva](https://canva.com)
 - ### [Resume IO](https://resume.io)
 - ### [Novo Resume](https://novoresume.com)
+- ### [Resumx](https://resumx.dev) — Open-source Markdown resume renderer with auto page-fitting that outputs PDF, HTML, DOCX, and PNG ([GitHub](https://github.com/resumx/resumx))
