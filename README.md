@@ -12,4 +12,8 @@ If you find this project helpful, please consider giving it a star on [GitHub](h
 
 **Scary fact:** Did you know that only 1 in 50 resumes get an interview? That's a 2% chance of getting an interview. This is why it's crucial to have a well-crafted resume that stands out from the rest.
 
-In today’s competitive job market, a well-crafted resume is essential. It’s not just about listing your skills and experiences; how you present that information can make or break your chances of getting noticed. You can be a very senior person, with years of experience, but with a poorly self-presentation, you can be easily overlooked. Or you may be a junior/intern with a very well-crafted resume, and you can be easily noticed. This is why it's crucial to have a well-crafted resume.
+In today’s competitive job market, a well-crafted resume is essential. It’s not just about listing your skills and experiences; how you present that information can make or break your chances of getting noticed. You can be a very senior person, with years of experience, but with a poorly self-presentation, you can be easily overlooked. Or you may be a junior/intern with a very well-crafted resume, and you can be easily noticed. This is why it’s crucial to have a well-crafted resume.
+
+## AI Resume Tools
+
+- [Ajusta](https://ajusta.ai) - AI-powered ATS resume optimizer. Scores your resume against job descriptions, identifies keyword gaps, and provides AI-generated rewrite suggestions. Chrome extension for LinkedIn and Indeed.
