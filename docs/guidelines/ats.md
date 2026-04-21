@@ -13,3 +13,7 @@ You should write your resume in a way that is friendly to ATS, not an enemy, Som
 - You've to match your resume versus the description, make sure the exact words in the description are also matched in your resume. You can even consider writing a script yourself to see how many % it matches. Just don't overdo it in a way to copy-paste the advertisement into your resume haha
 - The resume has written "React.js", but you have written "Re-act", which simply may result in your rejection. Remember to consider ATS as a very dumb person.
 - Make sure your sections and documents can be recognized by ATS, you can try uploading your resume to a few websites ATS to see if they can detect the text inside your resume or not. They may not be in conditions such as weird font, bad styling, etc.
+
+## Tools
+
+- [ATSGuard](https://atsguard.com) — Instantly score your resume against any job description. AI-generated rewrites for missing keywords.
