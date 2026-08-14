@@ -9,6 +9,7 @@ Ready to get started? Check out the [documentation](https://manimozaffar.github.
 If you find this project helpful, please consider giving it a star on [GitHub](https://github.com/ManiMozaffar/awesome-resumes). It makes other people discover this project and benefit from it. It also motivates me to keep maintaining it!
 
 ## Why This Project Matters
+- [CV Forge](https://github.com/DeusAcc/cv-forge-ai-resume-builder) - Paste raw notes, get a typeset ATS-friendly PDF resume. Free tier, paid API.
 
 **Scary fact:** Did you know that only 1 in 50 resumes get an interview? That's a 2% chance of getting an interview. This is why it's crucial to have a well-crafted resume that stands out from the rest.
 
